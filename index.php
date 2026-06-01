@@ -8,7 +8,7 @@ $pages = [
     "Blog"      => "blog.php",
     "Docs"      => "docs.php",
     "Donate"    => "donate.php",
-    "Jobs"      => "jobs.php",
+    "Careers"   => "careers.php",
     "Privacy"   => "privacy.php",
     "Terms"     => "terms.php"
 ];
